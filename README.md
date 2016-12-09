@@ -1,0 +1,1 @@
+#Stupidly simple kotlin-jersey with embedded jetty example
